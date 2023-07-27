@@ -1,0 +1,4 @@
+C:\Users\basta\source\repos\lexicalScanner\lexicalScanner\x64\Debug\lexicalScanner.vcxproj.AssemblyReference.cache
+C:\Users\basta\source\repos\lexicalScanner\lexicalScanner\x64\Debug\lexicalScanner.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\basta\source\repos\lexicalScanner\lexicalScanner\x64\Debug\lexicalScanner.MyForm.resources
+C:\Users\basta\source\repos\lexicalScanner\lexicalScanner\x64\Debug\lexicalScanner.vcxproj.GenerateResource.cache

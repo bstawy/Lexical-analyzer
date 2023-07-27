@@ -1,0 +1,3 @@
+for (inti = 0; i < size; i++){
+	double z = x+y
+}
