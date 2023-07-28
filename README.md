@@ -1,4 +1,5 @@
 # Lexical-analyzer
+This is the first phase of compiler.
 It's a GUI desktop application use to scan C++ code and convert it to tokens with a little errors detection.
 
 - Inputs:
